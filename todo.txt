@@ -1,0 +1,37 @@
+Sort Players by status
+
+Friends list
+
+Advanced Player Management:
+ Like Rightmouseclick a Player and add him to sort of a playerlist
+ which could be displayed in the same Window as usuall, just with 
+ a special Color for Friends. If possible, it would be nice to have
+ an extra sound for Friends entering/leaving the Lobby or Gameroom too.
+ And/Or Rightmouseclick and choice to mute another Player in the own
+ chat window.
+
+Change Number of players in Game room
+
+Change Name of gameroom from inside
+
+Update chat window within gameroom?(flip, wordwrap, richtext)
+
+on all admin buttons user supply reason why
+
+add link function to newmessage function
+
+for admins add list of admins
+
+for admins add list of banned and reason - and able to unban
+
+make newmessage window a seperate dialog (dim msgfrm() as frmMessage, set msgfrm(1) = new frmmessage)
+
+when booted make sure status goes back to playing=false
+
+when leaveing gameroom reset status always
+
+once a second check to see if there are missing players from list
+
+fix multiple port listening for gamerooms
+
+on leave add time logged in

@@ -1,0 +1,19 @@
+
+Windows IP Configuration
+
+        Host Name . . . . . . . . . . . . : Wind
+        Primary Dns Suffix  . . . . . . . : 
+        Node Type . . . . . . . . . . . . : Mixed
+        IP Routing Enabled. . . . . . . . : No
+        WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Wireless Network Connection:
+
+        Connection-specific DNS Suffix  . : 
+        Description . . . . . . . . . . . : Broadcom 802.11g Network Adapter
+        Physical Address. . . . . . . . . : 00-14-A4-3B-7F-C2
+        Dhcp Enabled. . . . . . . . . . . : No
+        IP Address. . . . . . . . . . . . : 192.168.0.99
+        Subnet Mask . . . . . . . . . . . : 255.255.255.0
+        Default Gateway . . . . . . . . . : 192.168.0.1
+        DNS Servers . . . . . . . . . . . : 192.168.0.1

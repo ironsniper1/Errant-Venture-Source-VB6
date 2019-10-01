@@ -1,0 +1,27 @@
+#### = Request to login
+@@@@ = leave lobby
+++++ = Add new gameroom
+%%%% = Remove Gameroom
+$$$$ = Join Gameroom
+&&&& = leave gameroom
+^^^^ = modify user state
+^++^ = modify game state
+%&&% = close game window
+#@+% = Launch Game
++##+ = set pwd
++@@+ = set UID
+%++% = send IP
+RRRR = Attempt to Register new User
+VVVV = send Version
+LLLL = attemp login
+BPWD = already logged in
+$&&$ = boot player
+IMIM = send instant message
+RUSR = return from registering player
+GRPL = update players in room 
+KALV = keep alive signal
+GRPW = game room pass word
+
+ascii(3) = end of tx char asc 171
+ascii(30) = tx field seperator asc 157
+

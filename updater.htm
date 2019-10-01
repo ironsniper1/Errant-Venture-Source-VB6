@@ -1,0 +1,28 @@
+<html>
+<META HTTP-EQUIV=expires CONTENT=0>
+<META HTTP-EQUIV=PRAGMA CONTENT=NO-CACHE>, 
+
+<script language="JavaScript">
+function reloadFunction() {
+    // assuming url of:  test.htm - eanables me to test
+    // may need to parse location.href if the url is not fixed
+    location.href = 'intermediate.htm' + '?' + ((new Date()).getTime());
+}
+//parent.document.form.Message.value="";
+
+</script>
+<link rel="stylesheet" href="/lsst_style.css" type="text/css">
+</head>
+
+<body onLoad="setTimeout('reloadFunction()',3000)">
+
+<script language="JavaScript">
+
+//parent.window.location.reload();
+window.open("chat.htm#ender","chat");
+
+</script>
+
+
+</body>
+</html>

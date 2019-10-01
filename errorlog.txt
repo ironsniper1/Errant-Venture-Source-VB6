@@ -1,0 +1,18 @@
+timer1_timer -  339 - Component 'AResize.ocx' or one of its dependencies not correctly registered: a file is missing or invalid - frmsplash
+timer1_timer -  339 - Component 'MCI32.OCX' or one of its dependencies not correctly registered: a file is missing or invalid - frmsplash
+btnUID_Click -  24057 - Socket is not connected - frmclient
+btnUID_Click -  24057 - Socket is not connected - frmclient
+btnUID_Click -  24057 - Socket is not connected - frmclient
+btnUID_Click -  24057 - Socket is not connected - frmclient
+timer1_timer -  339 - Component 'MCI32.OCX' or one of its dependencies not correctly registered: a file is missing or invalid - frmsplash
+btnUID_Click -  24057 - Socket is not connected - frmclient
+btnUID_Click -  24057 - Socket is not connected - frmclient
+btnUID_Click -  24057 - Socket is not connected - frmclient
+btnUID_Click -  24057 - Socket is not connected - frmclient
+btnBack_click -  24054 - Connection was reset by remote network - frmJoinGame
+btnSend_Click -  24054 - Connection was reset by remote network - frmJoinGame
+btnSend_Click -  24054 - Connection was reset by remote network - frmJoinGame
+btnSend_Click -  24054 - Connection was reset by remote network - frmclient
+btnUID_Click -  24057 - Socket is not connected - frmclient
+newmessage -  70 - Permission denied - frmclient
+newmessage -  52 - Bad file name or number - frmclient
